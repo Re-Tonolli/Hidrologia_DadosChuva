@@ -1,0 +1,4 @@
+# install python 3.8 or greater
+# python3 -m pip install -r requirements.txt
+# example to run: python3 main.py data\data_clima.csv
+pandas>=1.4.3
